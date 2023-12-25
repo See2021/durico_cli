@@ -1,8 +1,4 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "devCommand": "next dev"
-    }
-  ]
+  "devCommand": "next dev"
 }
